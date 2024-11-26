@@ -2,6 +2,3 @@
 dist
 node_modules
 .git
-package-lock.json
-package.json
-reportWebVitals.js
