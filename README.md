@@ -2,7 +2,7 @@
 
 Hello!
 
-This is a TODO list project as part of my Web development bootcamp. It creates a simple TODO list where you can **add**, **delete** or mark an item as **complete** through strikethrough.
+This is a TODO list project as part of my Web development bootcamp. It creates a simple TODO list where you can **add**, **edit** and  **delete** an item.
 
 > [!NOTE]
-Used HTML, CSS, JAVASCRIPT
+Used React Hooks.
